@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# 보안에 민감한 값이 들어가는 설정 파일 (배포 시 GitHub Secrets가 생성)
+application.yaml
